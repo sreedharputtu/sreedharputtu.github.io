@@ -1,0 +1,40 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle for icon -->
+  <circle cx="30" cy="30" r="28" fill="#4F46E5" opacity="0.1"/>
+  
+  <!-- K letter with reward star integrated -->
+  <path d="M20 15 L20 45 M20 30 L35 15 M20 30 L35 45" stroke="#4F46E5" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Reward star -->
+  <path d="M30 20 L32 26 L38 26 L33 30 L35 36 L30 32 L25 36 L27 30 L22 26 L28 26 Z" fill="#F59E0B" stroke="#F59E0B" stroke-width="0.5"/>
+  
+  <!-- KWEEMA text -->
+  <g transform="translate(60, 38)">
+    <!-- K -->
+    <path d="M0 0 L0 -20 M0 -10 L8 0 M0 -10 L8 -20" stroke="#1F2937" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- W -->
+    <path d="M15 -20 L18 0 L22 -12 L26 0 L29 -20" stroke="#1F2937" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- E -->
+    <path d="M37 -20 L37 0 M37 -20 L44 -20 M37 -10 L43 -10 M37 0 L44 0" stroke="#1F2937" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- E -->
+    <path d="M51 -20 L51 0 M51 -20 L58 -20 M51 -10 L57 -10 M51 0 L58 0" stroke="#1F2937" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- M -->
+    <path d="M65 0 L65 -20 L72 -12 L79 -20 L79 0" stroke="#1F2937" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- A -->
+    <path d="M87 0 L91 -20 L95 0 M88.5 -8 L93.5 -8" stroke="#1F2937" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  
+  <!-- Tagline -->
+  <text x="65" y="52" font-family="Arial, sans-serif" font-size="9" fill="#6B7280" letter-spacing="1">
+    REWARDS PLATFORM
+  </text>
+  
+  <!-- Accent dots for design -->
+  <circle cx="55" cy="30" r="2" fill="#4F46E5" opacity="0.3"/>
+  <circle cx="55" cy="35" r="2" fill="#F59E0B" opacity="0.3"/>
+</svg>
